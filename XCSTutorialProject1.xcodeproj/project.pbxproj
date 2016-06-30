@@ -328,6 +328,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.honzadvorsky.XCSTutorialProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "bf9a154e-aea5-4879-ada6-04388e41fa85";
 			};
 			name = Debug;
 		};
@@ -339,6 +340,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.honzadvorsky.XCSTutorialProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "42dcdbc9-7f7c-400e-9513-a49b74dd9655";
 			};
 			name = Release;
 		};
@@ -385,6 +387,7 @@
 				3A7DB58E1B5C1CFB008D2381 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A7DB58F1B5C1CFB008D2381 /* Build configuration list for PBXNativeTarget "XCSTutorialProject1Tests" */ = {
 			isa = XCConfigurationList;
@@ -393,6 +396,7 @@
 				3A7DB5911B5C1CFB008D2381 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
