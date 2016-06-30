@@ -77,6 +77,8 @@ end
 
         # create a folder for our provisioning profiles if not exists
         sh "cd .. && mkdir -p ProvisioningProfiles"
+        
+        cert
 
         # generate development profile
         profile_name = 'tutorial_app_dev'
