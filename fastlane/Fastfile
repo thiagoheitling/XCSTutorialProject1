@@ -64,6 +64,11 @@ platform :ios do
     # )
   end
 end
+ 
+  lane :prebuild do   
+        
+        sh "cd .. && cp ./ProvisioningProfiles/* /Library/Developer/XcodeServer/ProvisioningProfiles/"
+  end 
 
   lane :provision do
 
