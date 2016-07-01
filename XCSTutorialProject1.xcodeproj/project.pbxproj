@@ -326,7 +326,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XCSTutorialProject1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.honzadvorsky.XCSTutorialProject1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.colligo.test.XCSTutorialProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "bf9a154e-aea5-4879-ada6-04388e41fa85";
 			};
@@ -338,7 +338,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XCSTutorialProject1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.honzadvorsky.XCSTutorialProject1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.colligo.test.XCSTutorialProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "42dcdbc9-7f7c-400e-9513-a49b74dd9655";
 			};
