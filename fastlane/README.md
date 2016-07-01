@@ -5,6 +5,11 @@ fastlane documentation
 sudo gem install fastlane
 ```
 # Available Actions
+### prebuild
+```
+fastlane prebuild
+```
+
 ### provision
 ```
 fastlane provision
